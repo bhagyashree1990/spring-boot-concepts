@@ -6,6 +6,9 @@ For logging in a spring boot application:
 * Logging is built-in with many starter dependencies
 * Create logger instance ``LoggerFactory.getLogger()`` 
 * Uses SL4J + LogBack
+* Configuration using application property values
+* Configuration using XML file
+* [Color-coded output](https://marketplace.eclipse.org/content/ansi-escape-console)
 
 ## Built With
 
