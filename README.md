@@ -9,6 +9,7 @@ For logging in a spring boot application:
 * Configuration using application property values
 * Configuration using XML file
 * [Color-coded output](https://marketplace.eclipse.org/content/ansi-escape-console)
+* Spring Boot profiles in logging ``<springProfile>``
 
 ## Built With
 
