@@ -35,3 +35,4 @@ There are several ways to run a Spring Boot application on your local machine. O
 ## References
 
 * [SLF4J](http://www.slf4j.org/)
+* [Logging in Spring Boot](https://docs.spring.io/spring-boot/docs/2.3.4.RELEASE/reference/html/spring-boot-features.html#boot-features-logging)
