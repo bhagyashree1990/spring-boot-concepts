@@ -1,0 +1,1 @@
+insert into cron(cron_key,cron_value) values('cron.report.weekly','0/2 * * * * ?'),('cron.report.daily','0/3 * * * * ?');
